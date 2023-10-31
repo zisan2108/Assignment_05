@@ -5,18 +5,34 @@
         "password": "$1$ASQmoJ6k$nlOWFUyCDfM3WxegOZPW50",
         "role": "admin"
     },
-
     {
         "username": "nahid",
         "email": "nahid@gmail.com",
         "password": "$1$ASQmoJ6k$nlOWFUyCDfM3WxegOZPW50",
         "role": "manager"
     },
-
     {
         "username": "user",
         "email": "user@gmail.com",
         "password": "$1$ASQmoJ6k$nlOWFUyCDfM3WxegOZPW50",
         "role": "user"
+    },
+    {
+        "username": "user2",
+        "email": "user2@gmail.com",
+        "password": "$2y$10$HWAcOvtQzHQPbA2JVIGtBOwFudXx9kIagiIZU\/4yVG8tpLXcT6fQG",
+        "role": "user"
+    },
+    {
+        "username": "zisan",
+        "email": "zisan@gmail.com",
+        "password": "$2y$10$zv9mTkfn\/5uvDT8DGd9frOHFrjyqYWOUwGOv9CN.GfGos9gf89Duy",
+        "role": "manager"
+    },
+    {
+        "username": "zisan",
+        "email": "zisan@gmail.com",
+        "password": "$2y$10$\/yoyLFbGM0pPW4ttJrQJZu\/xs48yZbFo\/3okmLwRCi4sytzW7CbMm",
+        "role": "manager"
     }
 ]
