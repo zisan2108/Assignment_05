@@ -1,0 +1,22 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "$1$ASQmoJ6k$nlOWFUyCDfM3WxegOZPW50",
+        "role": "admin"
+    },
+
+    {
+        "username": "nahid",
+        "email": "nahid@gmail.com",
+        "password": "$1$ASQmoJ6k$nlOWFUyCDfM3WxegOZPW50",
+        "role": "manager"
+    },
+
+    {
+        "username": "user",
+        "email": "user@gmail.com",
+        "password": "$1$ASQmoJ6k$nlOWFUyCDfM3WxegOZPW50",
+        "role": "user"
+    }
+]
